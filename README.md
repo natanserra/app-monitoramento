@@ -13,14 +13,10 @@ Botão de fechamento para encerrar completamente o aplicativo
 Python 3.6+
 PyQt5
 psutil
-PyInstaller (para criar o executável)
 
 # Instalação
 ## Instalando as dependências
-Copypip install PyQt5 psutil pyinstaller
-##Clonando o repositório
-Copygit clone [URL_DO_SEU_REPOSITORIO]
-cd [NOME_DO_DIRETORIO]
+Copypip install PyQt5 psutil
 ## Uso
 ### Executando o script Python
 Copypython system_monitor.py
@@ -35,7 +31,6 @@ Para fechar o aplicativo, clique no botão "Close" vermelho.
 # Solução de problemas
 
 Se o aplicativo não iniciar, verifique se todas as dependências estão instaladas corretamente.
-Em caso de problemas com a criação do executável, certifique-se de que o PyInstaller está instalado e tente executar o script de construção com privilégios de administrador.
 
 # Contribuindo
 Contribuições são bem-vindas! Por favor, sinta-se à vontade para submeter um Pull Request
