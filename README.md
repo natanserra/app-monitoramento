@@ -1,6 +1,6 @@
-# Monitor de Sistema Transparente
+# Monitor de Sistema 
 ## Descrição
-Este é um aplicativo de monitor de sistema transparente desenvolvido em Python usando PyQt5. Ele exibe o uso de CPU e memória em tempo real em uma janela transparente que fica sempre visível na tela.
+Este é um aplicativo de monitor de sistema desenvolvido em Python usando PyQt5. Ele exibe o uso de CPU e memória em tempo real em uma janela transparente que fica sempre visível na tela.
 #Características
 
 Interface de usuário transparente e sempre visível
